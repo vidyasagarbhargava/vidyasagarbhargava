@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am Vidyasagar Bhargava(aka Sagar). I am a Data Science Professional with more than 7 years of experience in building Machine Learning and Data Analytics. I am interested in using mathematics to solve deep problems in business as well as scaling machine learning, statistical methods and others forms of analytics to large datasets.  
+I am Vidyasagar Bhargava(aka Sagar). I am a Data Science Professional with more than 7 years of experience in building Machine Learning and Data Analytics based solutions. I am interested in using mathematics to solve deep problems in business as well as scaling machine learning, statistical methods and others forms of analytics to large datasets.
 
-Skills Summary :-  
-Statistical Modeling and Analysis:- Linear Regression, Logistic Regression, Time Series Analysis, Multivariate Statistical Analysis.   
-Machine Learning:- Support Vector Machines, K-Means Clustering, k-Nearest Neighbors, Naive Bayes Classifier, Decision Trees, Random Forest.  
-Programming Languages and Databases:- R, Python, C/C++, VBA, MySQL, Vertica. 
-Optimization :- Gradient Descent and variants
+- 🔭 I’m currently working with Supply Chain Analytics team on Transport Management System problem. 
 
 <!--
 **vidyasagarbhargava/vidyasagarbhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
