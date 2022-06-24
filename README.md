@@ -4,6 +4,7 @@ I am Vidyasagar Bhargava. I am a Data Science Professional with more than 9 year
 
 - 🔭 I’m currently working on Electric Vehicle Battery health prediction and EV range prediction problems.
 
+
 <!--
 **vidyasagarbhargava/vidyasagarbhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
