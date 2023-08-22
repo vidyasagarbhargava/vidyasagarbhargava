@@ -5,8 +5,6 @@
 
 I am Vidyasagar Bhargava. I am a Data Science Professional with more than 10 years of experience in building Machine Learning and Data Analytics based solutions. I am interested in using mathematics to solve deep problems in business as well as scaling machine learning, statistical methods and others forms of analytics to large datasets.
 
-- 🔭 I’m currently working on Electric Vehicle Battery health prediction and EV range prediction problems.
-
 
 <!--
 **vidyasagarbhargava/vidyasagarbhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
