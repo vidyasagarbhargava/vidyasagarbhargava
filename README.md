@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidyasagarbhargava) [<img src="https://img.shields.io/badge/my_blog-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://vidyasagarbhargava.com/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidyasagarbhargava) [<img src="https://img.shields.io/badge/my_blog-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://vidyasagarbhargava.github.io/)
 
 
 ### Hi there 👋
