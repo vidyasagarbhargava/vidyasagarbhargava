@@ -1,22 +1,23 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidyasagarbhargava) [<img src="https://img.shields.io/badge/my_blog-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://vidyasagarbhargava.github.io/)
+### Hi, I'm Vidyasagar Bhargava 👋
+
+I’m a Lead Data Scientist at TVS Motor, working for connected mobility solutions department. I have 13+ years of experience in the field of Applied AI where I worked with various clients in developing prescriptive as well as predictive solutions to address core business problems.
+
+## Projects
+
+- Root Cause Analysis for Low Range Trips in EVs
+- Charge Time Estimation
+- Predictive Maintenance of Brakes in two wheelers
+- Range Prediction and Analysis for EVs
+- Cell Imbalance issues in batteries
+- Voice Assistant using RAG and LLMs
+- Churn Prediction in Telecom Industry
+- Price optimization Engine for Scientific Pricing of Fashion Products
+- NPS Improvement using explainable AI
+- Retail store segmentation
+- Anomaly Detection for machine parts failure
 
 
-### Hi there 👋
 
-I am Vidyasagar Bhargava. I am a Data Science Professional with more than 10 years of experience in building Machine Learning and Data Analytics based solutions. I am interested in using mathematics to solve deep problems in business as well as scaling machine learning, statistical methods and others forms of analytics to large datasets.
+## Website
 
-
-<!--
-**vidyasagarbhargava/vidyasagarbhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [`blog`](https://vidyasagarbhargava.github.io/)
